@@ -1,3 +1,3 @@
 # MLOps-POC
 
-Usecase - Salary Prediction
+Use case - Salary Prediction
